@@ -1,0 +1,49 @@
+* {
+    margin: 0;
+}
+
+.main-container {
+    background-image: linear-gradient(to bottom right, white, #C4A484);
+    padding: 10px;
+}
+
+.recipe-list li a {
+    text-decoration: none; 
+}
+
+#pitaBreadTxt {
+    color: #231709;
+}
+
+#blueberryShortcakeTxt {
+    color: #3C280D;
+}
+
+
+#tomatoSoupTxt {
+    color: #4B371C;
+}
+
+#oreoBarsTxt {
+    color: #795C34;
+}
+
+.text-header {
+    text-align: center;
+}
+
+h1 {
+    font-family:"Courier New", Courier, monospace
+}
+
+li, p {
+    font-family: "Times New Roman", Times, serif;
+}
+
+img {
+    height: auto;
+    width: 500px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
